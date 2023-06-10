@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor(staticName = "of")
 public class FileUploadResponse {
 
-    private String uuid;
+    private String url;
 
 }
