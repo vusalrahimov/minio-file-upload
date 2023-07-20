@@ -1,6 +1,6 @@
 minio:
   url: http://192.168.1.108:9000
-  accessKey: tsLNqK4sW2mXRsMczazh
-  secretKey: zFU6FRi2tcRuArqOoFiDUaLuMyddMY5SnbwApeG0
+  accessKey: 
+  secretKey: 
   bucket: desofme
   folder: files
